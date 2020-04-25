@@ -32,7 +32,37 @@ jobs:
             gs -dNOPAUSE -sDEVICE=pdfwrite -sOUTPUTFILE=build/rulebook.pdf -dBATCH build/Cover.pdf build/Main.pdf && \
             rm build/Cover.pdf build/Main.pdf \
             "
-      - uses: actions/upload-artifact@v1
+
+      - name: Upload artifact zip
+        uses: actions/upload-artifact@v1
         with:
           name: Rulebook
           path: build/rulebook.pdf
+
+      - name: Get Current Time
+        id: current_time
+        uses: 1466587594/get-current-time@v1.0.0
+        with:
+          format: MMMM D YYYY h:m:s A
+          utcOffset: "-05:00"  
+
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: "${{ steps.current_time.outputs.formattedTime }}"
+          release_name: "${{ steps.current_time.outputs.formattedTime }}"
+          draft: false
+          prerelease: false
+
+      - name: Upload a Release Asset
+        uses: actions/upload-release-asset@v1.0.2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
+          asset_path: ./rulebook.pdf
+          asset_name: rulebook.pdf
+          asset_content_type: application/pdf
