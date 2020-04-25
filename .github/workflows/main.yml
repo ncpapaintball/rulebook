@@ -39,11 +39,17 @@ jobs:
           name: Rulebook
           path: build/rulebook.pdf
 
-      - name: Get Current Time
-        id: current_time
+      - name: Get Tag Name
+        id: tag_name
         uses: 1466587594/get-current-time@v1.0.0
         with:
-          format: MMMM D YYYY h:mm:ss A
+          format: MMMM-D-YYYY-h-mm-A
+          utcOffset: "-05:00"  
+      - name: Get Release Title
+        id: release_title
+        uses: 1466587594/get-current-time@v1.0.0
+        with:
+          format: MMMM D YYYY h:mm A
           utcOffset: "-05:00"  
 
       - name: Create Release
@@ -52,8 +58,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: "${{ steps.current_time.outputs.time }}"
-          release_name: "${{ steps.current_time.outputs.formattedTime }}"
+          tag_name: "${{ steps.tag_name.outputs.formattedTime }}"
+          release_name: "${{ steps.release_title.outputs.formattedTime }}"
           draft: false
           prerelease: false
 
