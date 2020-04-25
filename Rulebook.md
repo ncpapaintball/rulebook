@@ -1,6 +1,8 @@
 ---
 title: "NCPA Rulebook"
 geometry: margin=0.5in
+pandoc:
+    fontfamily: utopia
 ---
 
 \pagebreak
