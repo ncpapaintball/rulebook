@@ -43,7 +43,7 @@ jobs:
         id: current_time
         uses: 1466587594/get-current-time@v1.0.0
         with:
-          format: MMMM D YYYY h:m:s A
+          format: MMMM D YYYY h:mm:ss A
           utcOffset: "-05:00"  
 
       - name: Create Release
@@ -52,7 +52,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: "${{ steps.current_time.outputs.formattedTime }}"
+          tag_name: "${{ steps.current_time.outputs.time }}"
           release_name: "${{ steps.current_time.outputs.formattedTime }}"
           draft: false
           prerelease: false
