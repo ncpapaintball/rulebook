@@ -5,7 +5,7 @@ rm -rf build/
 mkdir build/
 
 docker run --rm --volume "`pwd`:/data" ncpa/rulebook-builder Cover.md -o build/Cover.pdf
-docker run --rm --volume "`pwd`:/data" ncpa/rulebook-builder Rulebook.md --toc --toc-depth=6 -o build/Main.pdf
+docker run --rm --volume "`pwd`:/data" ncpa/rulebook-builder Rulebook.md --toc --toc-depth=6 -H deeplist.tex -o build/Main.pdf
 docker run --rm --volume "`pwd`:/data" ncpa/rulebook-builder gs -dNOPAUSE -sDEVICE=pdfwrite -sOUTPUTFILE=build/rulebook.pdf -dBATCH build/Cover.pdf build/Main.pdf
 
 rm build/Cover.pdf build/Main.pdf
