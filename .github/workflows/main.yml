@@ -27,8 +27,8 @@ jobs:
           args: |
             -c "
             mkdir build/ && \
-            pandoc Cover.md -o build/Cover.pdf && \
-            pandoc Rulebook.md --toc --toc-depth=6 -o build/Main.pdf && \
+            pandoc rulebook/Cover.md -o build/Cover.pdf && \
+            pandoc rulebook/Rulebook.md --toc --toc-depth=6 -H deeplist.tex -o build/Main.pdf && \
             gs -dNOPAUSE -sDEVICE=pdfwrite -sOUTPUTFILE=build/rulebook.pdf -dBATCH build/Cover.pdf build/Main.pdf && \
             rm build/Cover.pdf build/Main.pdf \
             "
