@@ -7,6 +7,6 @@ geometry: margin=0.5in
 ![NCPA Logo](./assets/ncpalogo.png)
 
 \begin{center}
-April 24, 2020
+@TODAYS_DATE@
 \end{center}
 
