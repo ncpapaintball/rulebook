@@ -6,7 +6,7 @@ mkdir build/
 
 # Replace dates and move things to the build folder
 cp -r rulebook/* build/
-sed -i "s/@TODAYS_DATE@/$(date +"%b %d, %Y")/g" build/Cover.md
+sed -i "s/@TODAYS_DATE@/$(date +'%b %d, %Y')/g" build/Cover.md
 
 # Build the PDF
 docker run --rm --volume "`pwd`:/data" -w /data/build ncpapaintball/rulebook-builder Cover.md -o Cover.pdf
