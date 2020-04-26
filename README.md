@@ -9,7 +9,7 @@ We want to hear from you!
 
 If you find a typographical error, please feel free to submit a pull request with the change. An administrator will review your changes and act accordingly.
 
-If you would like to propose a functional change in the rulebook, please [open an issue](issues) first. We will use Issues as a means for discussion around rule requests.
+If you would like to propose a functional change in the rulebook, please [open an issue](/ncpapaintball/rulebook/issues) first. We will use Issues as a means for discussion around rule requests.
 
 # Project Structure
 As a contributor, there are two main files you will want to modify.

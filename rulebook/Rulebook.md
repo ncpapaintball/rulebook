@@ -260,6 +260,152 @@ pandoc:
         1. For reference purposes, 'yellow' is any color similar to Pantone colors 101, 102, 107, 108, 109, 116, 3945, 3955, 3965, and 803, although any head referee may prohibit any equipment they believe interferes with the referees' ability to officiate effectively. 
         1. Any other clothing or equipment not expressly permitted by the rules is prohibited unless permitted by the Ultimate Referee. Players possessing prohibited clothing or equipment on the field of play will be assessed a minor penalty. (See 9.2)
 
+# Match Structure
+7. Match Structure
+    1. College / High School RaceTo-2
+        1. Each match will consist of a series of up to 3 points.
+            1. College Class AA points have a 5 minute time limit
+            1. High School points have a 3 minute time limit
+            1. Points will be played in rotation amongst all opponents scheduled for a team in the current round of play. [^how_best_of_three_works] 
+        1. At the start of the first point of a match teams will be assigned a starting station based upon the score sheet. Teams switch starting stations for the second point of the match, and select starting stations by a mutually agreeable random method for the third point of the match.
+    1. Class A RaceTo-7
+        1. Each match will consist of a series of points.
+        1. Each match will start with 20 minutes of game time.
+        1. Game time begins to decrement (count down) at the start of the first point of the match.
+        1. Each team starts the first point at the starting station on the opposite side of the field from the team’s pit.
+        1. Teams switch starting stations after every odd point scored.
+            1. Teams do not switch sides for the overtime point
+        1. A break period follows the conclusion of each point.
+            1. Game time stops decrementing for the duration of the break period.
+            1. The break period is two minutes.
+            1. A team may extend the breakout period by calling a timeout.
+                1. Each team starts a match with one timeout
+                1. A timeout extends the break period by two minutes.
+                1. A team’s player or staff member may use a timeout by pressing the button on the side of the pit scoreboard, or by informing the scorekeeper that the team would like to use their timeout.
+                1. A timeout cannot be called with 10 seconds or less remaining in the break period.
+            1. Teams may use their timeouts within the same break period.
+            1. Failure to call a timeout prior to the 10 second disable feature may result in a Walkover.
+                1. A walkover occurs when a team fails to call a timeout and has no players present at the start of a point when the horn sounds.
+                1. A walkover results in a point scored for the ‘active’ team as nobody was present to contest the point.  The scoreboard equipment will be checked prior to awarding the Walkover point and if the error was mechanical the result will be a no point for either team, and a restart will take place.
+                1. An active player must still hang the flag in a Walkover situation.
+        1. If there is less than 10 seconds of game time remaining at the end of a point, game time expires.
+    1. Class A Full Format 
+        1. Each match will consist of a series of points.
+        1. Each match will consist of two 10-minute halves, with each half starting with 10 minutes of game time.
+        1. Game time begins to decrement (count down) at the start of the first point of the match.
+        1. Teams start all points in the first half at the starting station on the opposite side of the field from the team’s pit, and all points in the second half at the starting station on the nearest side of the field from the team’s pit.
+            1. Teams do not switch sides for the overtime point
+        1. A break period follows the conclusion of each point.
+            1. Game time stops decrementing for the duration of the break period.
+            1. The break period is two minutes.
+            1. A team may extend the breakout period by calling a timeout.
+                1. Each team starts a match with one timeout
+                1. A timeout extends the break period by two minutes.
+                1. A team’s player or staff member may use a timeout by pressing the button on the side of the pit scoreboard, or by informing the scorekeeper that the team would like to use their timeout.
+                1. A timeout cannot be called with 10 seconds or less remaining in the break period.
+            1. Teams may use their timeouts within the same break period.
+            1. Failure to call a timeout prior to the 10 second disable feature may result in a Walkover.
+                1. A walkover occurs when a team fails to call a timeout and has no players present at the start of a point when the horn sounds.
+                1. A walkover results in a point scored for the ‘active’ team as nobody was present to contest the point.  The scoreboard equipment will be checked prior to awarding the Walkover point and if the error was mechanical the result will be a no point for either team, and a restart will take place.
+                1. An active player must still hang the flag in a Walkover situation.
+        1. If there is less than 10 seconds of game time remaining at the end of a point, game time expires.
+    1. Prelim match conclusion
+        1. The match ends if,
+            1. College / High School RaceTo-2
+                1. A team has scored two points, or
+                1. Three points have been played, or
+                1. A team forfeits.
+            1. Class A RaceTo-7
+                1. Game time has expired and one team has scored more points than the other team, or
+                1. A team forfeits, or
+                1. A team has scored 7 points
+        1. The team that scores the most game points during the match wins the match.
+        1. Overtime
+            1. College / High School RaceTo-2
+                1. If a preliminary match ends with the same number of points scored by each team, the match is a tie.
+            1. Class A RaceTo-7 / Class A Full Format
+                1. In preliminary matches in which time expires and both teams have scored the same number of points, the result is a single three minute overtime period.
+                1. The overtime period will begin immediately after the game clock is reset and the two mine break period has expired.
+                1. If the overtime period ends with no point scored the match will be declared a draw and each team will receive one match point.
+    1. Playoff match conclusion
+        1. College / High School RaceTo-2
+            1. If a playoff match ends with one point scored per team, the team with the most game time remaining in the point they scored, minus any penalty minutes accrued during that match, wins the match.
+                1. If, after subtracting any penalty minutes accrued during the match, both teams have the same game time remaining, teams will play overtime as dictated in 6.4.3.
+            1. If a playoff match prior to the semifinal or final round ends with no point scored by either team, the teams will switch sides and play one additional three minute overtime point.
+                1. If neither team scores in the overtime point, both teams lose, neither team advances, and the team that would have played the winner of the match in the next round receives a bye.
+            1. If a playoff match in the semifinal or final round ends with no point scored by either team, the teams will switch sides and play one three minute overtime period and if that round ends with no point scored by either team they will proceed to the Shootout. 
+        1. Class A RaceTo-7 / Class A Full Format
+            1. If a playoff match ends with no point scored by either team, the teams will play one additional three minute overtime point as dictated in 6.4.3
+            1. If neither team scores a point during the overtime period, teams will proceed to The Shootout as described in 6.5.3
+        1. The Shootout is a series of five 60 second long 1-on-1’s separated by one minute break periods.  The Shootout will begin immediately after the game clock is reset and after the standard two minute break period.
+            1. No player may compete more than once during the Shootout.
+            1. A team scores a point during the Shootout when a player hangs the flag, which will be available in the same location as it was during the regulation portion of the match, on the opposing start station, or
+                1. As the result of a penalty per 6.3.4.5.
+            1. The first team to hang the flag twice wins the match.
+            1. Any minor penalty called during the shootout results in the immediate elimination of that player, but
+                1. An active opponent must still grab the flag and hang it for purposes of recording the pull and hang time.
+            1. Any major penalty during the Shootout results in that player’s elimination and an immediate ‘flag hang’ for the opposing team at the time of the infraction and concludes the match if it constitutes a second flag hang. 
+            1. Should the Shootout end in a tie score the team that hung the flag in the shortest period of time wins the match, which includes ‘flag hang’ times that are the result of penalty. 
+            1. Should the Shootout end with no ‘flag hang’ by either team the winner will be
+                1. The team that gained possession of the flag the most number of times; with five being the maximum number possible during the Shootout.  A player is considered in possession of the flag when that player remains active for three seconds after picking up the flag.
+                1. If the competing teams are tied in number of flag possessions gained during the shootout the team that gained the flag in the shortest amount of time is declared the winner.
+            1. Should the Shootout end with no flag hangs and no flag possessions the team that scored first to begin the match is declared the winner.
+
+# Scoring
+8. Scoring
+    1. Point Score
+        1. A team scores one point each time
+            1. Any active player [^active_player_can_hang_for_opponent] touches the point flag to either team’s starting station, [^refs_dont_let_dead_players_score_points] or
+            1. A player on the opposing team receives a major penalty, (See 10.3), removing all active players on that team from the field, or
+            1. In Class A RaceTo-7 and Class A Full Format, 
+                1. An opponent concedes, or
+                1. A player on the opposing team receives a penalty when there are already three players on the same team in the penalty box, resulting in a penalty point, or
+                1. The opposing team receives a major penalty in the final 60 seconds of the 2nd half or a non-one-on-one overtime period. [^offender_still_serves_penalty]
+    1. Round Score
+        1. Teams in non-head-to-head rounds are ranked by the number of match points scored in that round.
+            1. A team scores two match points for each match won.
+            1. A team scores one match point for each match tied.
+            1. A team scores 0 match points for all other matches.
+        1. In the event of a tie in a non-head-to-head round, ties will be broken, in order, by
+            1. Number of matches won, followed by
+            1. Number of matches won amongst the tied teams, followed by
+            1. Head-to-head competition amongst the tied teams, [^how_tiebreakers_work] followed by
+            1. Margin of victory in all matches in the current round, followed by
+            1. Total points scored in all matches in the current round, followed by
+            1. Greatest time remaining in games/matches won, [^time_remaining_in_wins] followed by
+            1. Least time remaining in games/matches lost, [^time_elapsed_in_losses] followed by
+            1. Place in previous rounds, most recent round first, followed by
+            1. Seed into the tournament.
+        1. In any group of three or more tied teams, tiebreakers are successively applied until one team wins, or no team wins and one team loses the tiebreaker.
+            1. If one team wins a tiebreaker, that team is removed from the group and is ranked higher than all other teams in the group.
+            1. If no team wins and one team loses a tiebreaker, that team is removed from the group and is ranked lower than all other teams remaining in the group.
+            1. Once a team is removed from the group, tie-breaking the remaining teams in the group are restarted with the first tiebreaker. [^how_reset_tiebreakers_works] (See 7.2.1.1) 
+        1. Teams eliminated in the same head-to-head round will continue to be ranked according to their place in the most recent non-head-to-head round.
+    1. Forfeits
+        1. A match will be scored as a loss for any team that forfeits a match.
+        1. A match will be scored as a win for any opponent of a team that forfeits a match, if the opponent does not also forfeit the match.
+            1. If a team scores a match win by a forfeit, the match will be scored with
+                1. Two points won, with the point time remaining in each match the higher of
+                    1. The average point time remaining in the team’s other points won in the current round, or
+                    1. The average point time remaining in points scored against the opponent in the current round, or
+                    1. Zero.
+                1. In Class A RaceTo-7 and Class A Full Format, the point margin in each match the higher of
+                    1. The margin points of the match if the match was played, or
+                    1. The average margin of the team’s other matches in the current round, or
+                    1. The average margin against the opponent in the opponent’s other matches in the current round, or
+                    1. Zero.
+                1. In Class A RaceTo-7 and Class A Full Format, the total points scored is determined in the same manner as margin in 7.3.2.1.2
+                1. Zero points lost
+                1. In Class AA and High School RaceTo-2, any penalty minutes received during any points of the match played.
+        1. The opponent of a team that forfeits a point will receive one game point with a point time remaining of the higher or zero or the game time remaining in any other point won by the team against the forfeiting team in the current round.
+            1. A team that forfeits two points in the same match forfeits the match.  
+    1. Score Sheets
+        1. Any referee or designated official may complete a score sheet. The scorekeeper may show the score sheet to the captain of each team. [^scorekeepers_responsibilities] 
+        1. Any correction made to the score sheet must be initialed by a head referee, [^scoring_errors] unless the correction corrects an obvious mathematical error, the correction may also be initialed by a scorekeeper.
+        1. In the event that one or both team captains do not agree with the contents of a score sheet and thus will not sign the score sheet, the head referee may decide whether the score sheet must be amended and/or validate the score sheet themselves.
+            1. A head referee or a scoreboard official may correct clerical or mathematical errors on the scoreboard at any time.  
+
+
 [^competitor]: A competitor is any person present on the field of play equipped to compete in a team’s match during an active point and exhibiting an association with the competing team.
 
 [^same_number_of_teams]: Same number  of teams from each bracket
@@ -301,3 +447,43 @@ pandoc:
 [^air_tank_removal]: This exception only applies to screwing in or unscrewing the air source – any settings on the air tank itself must not be adjustable without the use of tools.
 
 [^barrel_sock]: Notice this does not say barrel swab, squeegee or plug.  It must be a barrel sock manufactured specifically for paintball markers.
+
+[^how_best_of_three_works]: With four opponents, a team will play one point against each opponent, A, B, C then D. Then a second point will be played against each opponent, then third point as necessary.
+
+[^active_player_can_hang_for_opponent]: Note this does not say an active player from the team scoring the point; players are welcome to hang flags for their opponents.
+
+[^refs_dont_let_dead_players_score_points]: A referee will avoid signaling a flag hang if a player who appears to be eliminated attempts to hang the flag.  The referee will signal a point score once the player has been verified as active.
+
+[^offender_still_serves_penalty]: The offending player still serves a 2-minute penalty beginning with the next point.
+
+[^how_tiebreakers_work]: Head-to-head tiebreakers are applied by comparing the group of all teams with the same match score and number of wins in the following manner:
+
+    1. A team wins the head-to-head tiebreaker if the team
+        
+        a. Has, for any opponent played in the current round, won more matches in the current round against that opponent than lost; and
+        
+        b. Is, for any opponent not played in the current round, ranked ahead of that opponent in the remaining tiebreakers.
+    
+    2. If no team wins the tiebreakers as in (1.), a team loses the head-to-head tiebreaker if the team
+    
+        a. Has, for any opponent played in the current, lost more matches in the current round against that opponent than won; and
+    
+        b. Is, for any opponent not played in the current round, ranked behind that opponent in the remaining tiebreakers.
+    
+    3. If no team wins or loses the head-to-head tiebreakers as in (1.) or (2.) (For example, three teams have played each other and each won once), proceed to successive tiebreakers until a tiebreaker is reached where at least one team is not tied with the others.
+    
+        a. If one team wins that tiebreaker, they are removed from the tied group and the remaining teams in the tie should have their tie broken starting with the very first tiebreaker, otherwise
+    
+        b. Split the tied teams into two groups; the first group with all tied to win that tiebreaker, and the other group with the remaining teams, then break the ties for each group separately starting with the very first tiebreaker.  All teams from the first group are ranked ahead of all teams from the second group.
+    
+    4. Once a team has won or lost the tiebreaker, remove it from the group assigning it the highest rank for a win or the lowest rank for a loss, and then start back at step one with the remaining teams in the group, repeating until only one team remains.
+
+[^time_remaining_in_wins]: Total of time remaining in each match won.
+
+[^time_elapsed_in_losses]: Total of time elapsed in each match lost.
+
+[^how_reset_tiebreakers_works]: Total points scored minus total points given up in all matches in the current round.
+
+[^scorekeepers_responsibilities]: A scorekeeper is not required to hunt a team down to show them the score sheet.  A team has a right to see the final score sheet and should do so to verify the scores are recorded properly.
+
+[^scoring_errors]: This allows teams to do the “right thing” if they agree on a scoring error.  If two teams are intentionally doing the wrong thing to fix the score, they should be dealt with as any other team intentionally fixing scores.
