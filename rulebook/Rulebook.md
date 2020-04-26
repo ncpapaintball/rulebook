@@ -403,8 +403,121 @@ pandoc:
         1. Any referee or designated official may complete a score sheet. The scorekeeper may show the score sheet to the captain of each team. [^scorekeepers_responsibilities] 
         1. Any correction made to the score sheet must be initialed by a head referee, [^scoring_errors] unless the correction corrects an obvious mathematical error, the correction may also be initialed by a scorekeeper.
         1. In the event that one or both team captains do not agree with the contents of a score sheet and thus will not sign the score sheet, the head referee may decide whether the score sheet must be amended and/or validate the score sheet themselves.
-            1. A head referee or a scoreboard official may correct clerical or mathematical errors on the scoreboard at any time.  
+            1. A head referee or a scoreboard official may correct clerical or mathematical errors on the scoreboard at any time. [^scoreboard_errors]  
 
+# Game Structure
+9. Game Structure
+    1. Staging Area
+        1. Each team will be provided with a staging area adjacent to the field of play.
+        1. No person appearing on the roster of a team may employ an electronic or mechanical device or voice enhancing device like a megaphone to communicate with any other person during any of the team’s points. (See 5.7.1)
+        1. No communication is allowed by anyone from the designated staging area to the active field of play during any team points. “Communication” at the referee’s discretion may be determined to be non-verbal as in sounds, signals, physical gestures, etc.
+            1. Any such communication can result in a simple warning or up to a major penalty assessed on the pit, (See 9.3)
+            1. With the penalty to be assessed at the time of the infraction, the referee making the call will impose the penalty on the nearest active players of the team penalized.
+        1. Should a pattern of illegal communication be determined the team committing the infraction(s) is subject to fine and/or match forfeiture.
+        1. Only authorized, rostered, and checked in persons will be permitted in the paddock and/or staging area(s).
+        1. All players, staff, and authorized personnel must possess and display upon request their valid student ID. Failure to do so will result in access to paddock and/or staging area(s) being denied, no exceptions.
+        1. Circumventing paddock and/or staging area security may result in fine(s), suspensions or ejection from the event and even future events at the discretion of the General Manager of the NCPA.
+    1. Field of Play
+        1. The field of play will consist of a level rectangular area called the “in-bounds” area, and any area between the in-bounds area and the netting surrounding the in-bounds area.
+        1. The field of play will be free of any undue obstacle or hazard to participants or officials.
+        1. The edge of the in-bounds area will be marked by a boundary line. The boundary line and any object or ground outside of the boundary line is out-of-bounds.
+        1. The in-bounds area will include at least 40 obstacles arranged symmetrically across the midpoint or the midline of the in-bounds area.
+        1. Obstacles will be at least 1 meter away from any boundary line.
+        1. The field of play will include a  portion of the starting station in the center of and parallel to the boundary line at each end of the in-bounds area consisting of
+            1. A vertical rectangular surface at least one meter high by two meters wide, or
+            1. An inflatable obstacle at least one meter high and at least two meters wide, or
+            1. A netted penalty box two meters wide and at least two meters high.
+        1. The inward facing surface of the starting station and penalty box netting is in-bounds.
+        1. Each team may field up to five players for each point. Any team that has more than five players on the field of play during a point will be assessed a minor penalty (See 9.2) for every player in excess of the five allowed.
+        1. Teams will be permitted to examine the field of play during field-walking times designated by the promoter.
+        1. Any person who intentionally alters the field of play will be assessed a minor suspension. (See 10.2.1)
+        1. Any team whose player, staff or affiliated member alters the field of play may be subject to a fine.
+            1. Any team discovered to show a pattern of disregard for the rules will be subject to a fine and/or a suspension and may be ejected from the event.
+        1. Players and staff may be on the field of play for a point in which their team is scheduled, or during the break period directly before or after such point, or
+            1. With permission of the Head Referee.
+            1. Any player or staff, not involved in the active point, on the field of play without the consent of the Head Referee will be assessed a minor penalty. [^stay_off_the_field] (See 9.2)
+                1. With the penalty to be assessed at the time of the infraction, the referee making the call will impose the penalty on the nearest active players of the team penalized.
+    1. Point Start
+        1. Points will be preceded by a break period. The point starts when the break period ends. The point start will be signaled by the scoreboard buzzer or other sound generating device.
+        1. Each player’s marker shall be chrono’ed prior to the start of a point in which that player will participate. [^enter_the_field_timely]
+    1. Player Status [^elaborate_on_player_status]
+        1. An “active” player is any player in the in-bounds area at the start of the current point whose barrel is touching the starting station at the sound of the buzzer or horn that signals the start of a point and has had their marker chronographed and has not subsequently become inactive or eliminated.
+            1. If a player leaves the starting station early (prior to the buzzer or horn sounding) or accidentally fails to touch their barrel to the starting station prior to the start of the point the player may retroactively “tag up”, so long as it is done within five seconds, and play out the point on the condition no actions occurred in between to alter the player’s status [^leaving_start_gate_early] such as
+                1. Pointing their marker downfield regardless as to whether they have fired the marker or not.
+        1. An “inactive” player is a previously active player who has not been eliminated by an obvious hit or a referee’s decision but is subject to elimination due to one of the following,
+            1. An attempt to enter the field of play after the start of a point, or
+            1. Player discharged a marker downfield in the general direction of their opponent prior to the point start, or prior to “tagging up”, or
+            1. Has touched any ground, area or object outside the in-bounds area, unless the Breakout Exception applies,
+                1. The Breakout Exception allows “active” players to make incidental contact with the back boundary lines and out-of-bounds within 10 feet of the start station at the beginning of a point.
+            1. Has an unobvious hit, or
+            1. Has lost possession of an item of mandatory equipment  such as a marker, goggle system, or harness (pod pack), (See 8.5.1.2) or
+            1. Has passed between two bunkers that were in physical contact with each other.
+        1. An inactive player will be eliminated by a referee.
+        1. An “eliminated” [^immediately_eliminated] player is any player
+            1. With an obvious hit; or
+            1. Who was not on the field of play at the start of the point; or
+            1. Who has signaled their elimination by 
+                1. Removing or losing their goggles, or
+                1. Saying “hit” or “out”, or
+                1. Raising their marker or an open hand above their head, or
+                1. Placing their barrel sock on their barrel; or
+            1. Who has been eliminated by a referee.
+        1. Under no circumstances may an eliminated player be made inactive or active or may an inactive player be made active except as noted in 8.4.1.1.
+        1. A player aware of an approaching official may not advance. Players who knowingly advance to avoid an official will be eliminated and subject to further penalty.  Any additional infractions made while avoiding the referee will merit additional penalties be assessed by the referee. [^extra_minor_penalty]
+    1. Occupation, Possession and Exchange
+        1. Every item of equipment or gear on a player’s person upon entering the field of play is considered to be in the player’s possession.  Items subject to ‘loss of possession’ must remain in the player’s possession [^physical_control] for the duration of the point while items not subject to ‘loss of possession’ [^possession_description] may be discarded, intentionally or unintentionally. 
+            1. ‘Loss of possession’ occurs when any object previously in the player’s control passes out-of-bounds or is separated from the player by more than five feet or in the case of goggles become dislodged and exposes any part of the player’s head and/or face normally covered and protected.
+                1. Any player whose goggles become dislodged is eliminated. (For safety reasons.)
+            1. Items subject to ‘loss of possession’ are marker, goggles and harness (pod pack).
+                1. For purposes of rule 8.7.2 a marker is defined as all the connected elements that make up a “marker” including air system and barrel. [^disposable_co2]
+            1. Items like squeegees, pods, paint, hats or caps, hoppers and flags are not subject to ‘loss of possession’.
+        1. Players may not possess any equipment during a point that was not in their or their teammate’s possession at the start of the point, except players may take possession of the flag or loose paintballs on the ground or by transfer between active teammates. [^possession_minor_penalty]
+            1. When transferring items players may pass items not subject to ‘loss of possession’ to active teammates by hand or by tossing such items in the general direction of the intended recipient.
+            1. Players who take possession of any discarded equipment subject to loss of possession, whether it was discarded intentionally or unintentionally will be subject to elimination.
+                1. ‘Discarded’ refers to items or equipment left or abandoned on the field of play but not to an ineffectual or poor effort to transfer an item or equipment to an active teammate.
+        1. Players on the field of play who lose possession of any item subject to ‘loss of possession’ will be eliminated, except
+            1. A referee may take equipment from a player, and
+            1. An eliminated player may discard equipment out-of-bounds.
+        1. Players who lose physical control of any equipment that has a valid hit, except equipment taken by a referee, will be assessed a gross penalty. (See 9.4)
+    1. Flags and Flag Carriers
+        1. Each point will start with a single point flag placed at a flag station located equidistant from the two starting stations in the in-bounds area of the field.
+            1. A player in possession of the point flag who hides or attempts to hide the point flag from plain view will be assessed a minor penalty. (See 9.2)
+            1. If a player is eliminated while possessing the point flag, the player will drop the point flag at the point of elimination. A referee may hang the point flag on a nearby bunker.    
+    1. Eliminated Players
+        1. An eliminated player must immediately and swiftly raise their marker or an open hand above their head and proceed out-of-bounds by the most direct route or as directed by a referee.
+            1. An eliminated player who fails to follow the procedure in 8.7.1, except as provided in 8.8.6, will be assessed a minor penalty. (See 9.2)
+        1. An eliminated player who fires or otherwise operates or adjusts their marker or air system prior to exiting the field of play will be assessed a major penalty. (See 9.3)
+        1. An eliminated player who intentionally re-enters the in-bounds area during the point will be assessed a gross penalty. (See 9.4)
+        1. An eliminated player who shoots at an opposing player from in-bounds will be assessed a major penalty (See 9.3)  and may be subject to a minor suspension. [^pull_an_extra_player]  (See 10.2.1)
+        1. An eliminated player who shoots at a player from out-of-bounds will be assessed a gross penalty (See 9.4) and may be subject to a minor suspension. (See 10.2.1)
+    1. Hits
+        1. A paintball is live from the time it is shot from a paintball gun in the possession of an active player until the paintball comes to rest.
+        1. Any live paintball striking and breaking on a player or any equipment in a player’s possession, or any mark indicating such a strike occurred, is a hit. [^what_is_a_hit]
+        1. An invalid hit is any paint mark that a referee observes is not from a live paintball striking and breaking on a player. Only referees will remove invalid hits, except that a player may remove an invalid hit on the lens of their goggle system with the permission of a referee.
+        1. A valid hit is any paint mark that is not an invalid hit. If a valid hit is removed from an in-bounds player by any means other than by a referee, or a player attempts to remove a valid hit, that player will be assessed a gross penalty.  (See 9.4)
+        1. An obvious hit is any valid hit that leaves a mark and that the receiving player should have seen, heard or felt, including, but not limited to, any valid hit anywhere other than the player’s mask, pack and its contents, gun, hopper and tank. [^what_is_an_obvious_hit] A player with an obvious hit is eliminated. 
+        1. A player with an obvious hit that is in a location that the player cannot verify may ask a referee or teammate to verify the hit before proceeding as otherwise required by 8.7.1, but may take no other action. 
+        1. Players who are in motion when they receive an obvious hit in a location they cannot verify themselves may proceed to the nearest cover while waiting for a referee or teammate to verify the hit as in 8.8.6.
+        1. A player who asks a teammate or referee to verify a hit that the player could have verified unassisted will be assessed a minor penalty. [^players_must_call_themselves_out] (See 9.2)
+        1. Unobvious hits are any valid hit that is not obvious. A player with an unobvious hit is inactive and will be eliminated by a referee.
+            1. An inactive player eliminated by a referee due to an unobvious hit not observed by the referee will be assessed a minor penalty. [^immediately_eliminate_unobvious_hit_players] (See 9.2)
+        1. A player who becomes aware of an unobvious hit on themselves or equipment in their possession is eliminated.
+    1. Point Stoppages
+        1. If a point must be stopped due to injury, a point stoppage will be signaled by the buzzer and referees will instruct active players to remain in their current positions.
+            1. Once the cause of the point stoppage has been resolved, a 10-second break period will be placed on the scoreboard and play will be restarted.
+            1. A player who fails to touch their barrel to the ground after the buzzer restarting the point sounds prior to pointing their gun downfield or at any opponent will be eliminated.
+        1. If a point is stopped due to any other reason, (inadvertent horn)
+            1. The point stoppage will be signaled by the buzzer, and
+            1. Any outstanding penalties will be assessed, and
+            1. “Active” players will return to the start box, and
+            1. A 10-second break period will be placed on the scoreboard and the point will be restarted as normal except only players who were active when the point was stopped may restart the point.
+        1. Players must put barrel socks on their markers when a point is stopped and keep their goggles on, unless given permission to remove them by a referee.
+    1. Point Completion
+        1. A point will end at the earliest of:
+            1. A referee signaling a flag hang,  or
+            1. The elimination of all players due to a major penalty as in 7.1.1.2, or
+            1. No active players remain on the field, or
+            1. The end of point time.
 
 [^competitor]: A competitor is any person present on the field of play equipped to compete in a team’s match during an active point and exhibiting an association with the competing team.
 
@@ -487,3 +600,35 @@ pandoc:
 [^scorekeepers_responsibilities]: A scorekeeper is not required to hunt a team down to show them the score sheet.  A team has a right to see the final score sheet and should do so to verify the scores are recorded properly.
 
 [^scoring_errors]: This allows teams to do the “right thing” if they agree on a scoring error.  If two teams are intentionally doing the wrong thing to fix the score, they should be dealt with as any other team intentionally fixing scores.
+
+[^scoreboard_errors]: The scoreboard is ONLY the scoreboard – copying scores to the scoreboard wrong, or calculations in error on the scoreboard, will be corrected by scorekeepers.  The scoreboard does NOT include score sheets.
+
+[^stay_off_the_field]: This effectively establishes a minor penalty for entering the field of play at any time without a referee’s approval or checking in.
+
+[^enter_the_field_timely]: It is the player’s responsibility to be on the field during the break period in a sufficient timely manner to allow a referee to chrono the player’s marker.  A player not chronographed prior to the start of a point is subject to immediate elimination.
+
+[^elaborate_on_player_status]: During a point, a player is always active, inactive, or eliminated. Inactive is when a player is out of the point and his shouts should not count, but the player would not be expected to know he was out of the point (i.e. the player’s foot touches tapeline, then the player bunkers two people – the player should be eliminated with no penalty and the two people bunkered should be left in).  Eliminated is when a player should know they should not still be playing, either because a referee has told them they are eliminated, or because they have an obvious hit, or because they were never on the field at the start of the point to begin with.  Thus, when assessing appropriate penalties, a referee must only determine whether the player was active, inactive, or eliminated when the infraction was committed.
+
+[^leaving_start_gate_early]: Leaving early and failing to touch your barrel to the start station prior to the start of a point both result in a change of status to “inactive” and liable to be eliminated by the referee. “Tagging up” restores a player’s active status but does not undue any subsequent results, for example, player is hit and eliminated making the effort to return to start station and “tag up” moot.
+
+[^immediately_eliminated]: Note that in these rules, the phrases “is active” and “ is eliminated” means the player’s status is IMMEDIATELY and AUTOMATICALLY changed to inactive or eliminated, respectively, without any action by the referee.  The phrase “eliminated by a referee” means the player maintains their current status until a referee informs them that they are eliminated, either verbally or by signal.
+
+[^extra_minor_penalty]: The minor penalty is in addition to any eliminations/playing on penalties.  If the player is not hit and avoided the official, that player is eliminated.  If the player is inactive and avoided, they are eliminated (for being inactive) and a teammate is eliminated (for the minor penalty).  If the player has an obvious hit, they are eliminated, a teammate is eliminated (playing on) and another teammate is eliminated (official avoidance).  If the referee determines the player was unaware of the official’s approach there is no avoidance penalty.
+
+[^physical_control]: Merely touching equipment does not establish physical control.  Generally, any equipment that will advance with the player if the player advanced can be considered to be in the physical control of the player.  This includes bunkers – so if you move a bunker because you accidentally run into it, you’re ok, but if you intentionally move the bunker, you’re eliminated.
+
+[^possession_description]: If you start the point with an item or are transferred it, you possess it, and if any such item is hit by a paintball that breaks the player is subject to elimination.
+
+[^disposable_co2]: Does not include disposable CO2 cartridges.
+
+[^possession_minor_penalty]: Taking possession of any item in any other manner results in a minor penalty.
+
+[^pull_an_extra_player]: This means that in addition to getting a one-for-one for playing on, an additional player should be pulled for any opponent the playing-on player manages to shoot, whether the opponent is erroneously eliminated by a referee or not.
+
+[^what_is_a_hit]: Notice it say breaking on a player or any equipment in a player’s possession OR any mark indicating such a strike.  This means a paintball breaking on a player or their equipment that does not leave a visible mark is still a valid hit. 
+
+[^what_is_an_obvious_hit]: If it hits the hopper and sprays on your goggles, it’s obvious.  If it smacks into your ear flap, it’s obvious.  If it hits your facemask and sprays on your face, it’s obvious.  If it hits your elbow pad and that pad is 2” thick and you don’t feel it, it’s still obvious – players should not wear padding so thick they cannot feel hits.  If it grazes off the side of your hopper where you can’t see the hit or it’s in your pack then it may not be obvious if the referee does not have any reason to believe you should know a paintball hit you there.
+
+[^players_must_call_themselves_out]: It is the player’s responsibility to call themselves out when they have an obvious hit.  It is the referees’ job to penalize players who continue to play with an obvious hit, so if you call a referee over to check a hit you could have checked yourself, expect a penalty too.  If called for a paint check and the referee deems the hit to be an obvious hit a major penalty will be assessed.
+
+[^immediately_eliminate_unobvious_hit_players]: If a referee observes a player receive an unobvious hit, the referee should eliminate that player immediately without penalty.  If a referee finds an unobvious hit on a player, the referee will eliminate that player and assess a minor penalty as the referee does not know how long the player has been playing with the hit nor does he know what type of impact the player has had on the point while playing as an inactive player.
