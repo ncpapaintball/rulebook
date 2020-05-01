@@ -19,6 +19,13 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
+      - name: get shortsha
+          id: vars
+          run: |
+            SHORTSHA=$(git rev-parse --short "$GITHUB_SHA")
+            echo $SHORTSHA
+            echo ::set-env name=SHORTSHA::$SHORTSHA
+
       # Multi-step process to build the rulebook using pandoc and ghostscript
       - name: Build the Rulebook
         uses: docker://ncpapaintball/rulebook-builder:latest
@@ -26,12 +33,13 @@ jobs:
           entrypoint: /bin/sh
           args: |
             -c "
+            echo $SHORTSHA && \
             mkdir build/ && \
             cp -r rulebook/* build/ && \
             cp deeplist.tex build/ && \
             cd build && \
             sed -i \"s/@TODAYS_DATE@/$(date +'%b %d, %Y')/g\" Cover.md && \
-            sed -i \"s/@GITREF@/$(git rev-parse --short HEAD)/g\" deeplist.tex && \
+            sed -i \"s/@GITREF@/$SHORTSHA/g\" deeplist.tex && \
             pandoc Cover.md -o Cover.pdf && \
             pandoc Rulebook.md -f markdown+startnum+fancy_lists+raw_html --toc --toc-depth=6 -H deeplist.tex -o Main.pdf && \
             gs -dNOPAUSE -sDEVICE=pdfwrite -sOUTPUTFILE=rulebook.pdf -dBATCH Cover.pdf Main.pdf && \
