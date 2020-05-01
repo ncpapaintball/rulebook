@@ -20,11 +20,11 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: get shortsha
-          id: vars
-          run: |
-            SHORTSHA=$(git rev-parse --short "$GITHUB_SHA")
-            echo $SHORTSHA
-            echo ::set-env name=SHORTSHA::$SHORTSHA
+        id: vars
+        run: |
+          SHORTSHA=$(git rev-parse --short "$GITHUB_SHA")
+          echo $SHORTSHA
+          echo ::set-env name=SHORTSHA::$SHORTSHA
 
       # Multi-step process to build the rulebook using pandoc and ghostscript
       - name: Build the Rulebook
