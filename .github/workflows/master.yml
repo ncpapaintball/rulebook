@@ -28,10 +28,12 @@ jobs:
             -c "
             mkdir build/ && \
             cp -r rulebook/* build/ && \
+            cp deeplist.tex build/ && \
             cd build && \
             sed -i \"s/@TODAYS_DATE@/$(date +'%b %d, %Y')/g\" Cover.md && \
+            sed -i \"s/@GITREF@/$(git rev-parse --short HEAD)/g\" deeplist.tex && \
             pandoc Cover.md -o Cover.pdf && \
-            pandoc Rulebook.md -f markdown+startnum+fancy_lists+raw_html --toc --toc-depth=6 -H ../deeplist.tex -o Main.pdf && \
+            pandoc Rulebook.md -f markdown+startnum+fancy_lists+raw_html --toc --toc-depth=6 -H deeplist.tex -o Main.pdf && \
             gs -dNOPAUSE -sDEVICE=pdfwrite -sOUTPUTFILE=rulebook.pdf -dBATCH Cover.pdf Main.pdf && \
             rm Cover.pdf Main.pdf \
             "
