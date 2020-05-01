@@ -25,12 +25,7 @@ jobs:
         run: |
           SHORTSHA=$(git rev-parse --short "$GITHUB_SHA")
           echo $SHORTSHA
-          echo ::set-output name=sha_short::$SHORTSHA
           echo ::set-env name=SHORTSHA::$SHORTSHA
-
-      - name: verify shortsha
-        run: |
-          echo $SHORTSHA
 
       # Multi-step process to build the rulebook using pandoc and ghostscript
       - name: Build the Rulebook
@@ -39,7 +34,6 @@ jobs:
           entrypoint: /bin/sh
           args: |
             -c "
-            SHORTSHA = $(git rev-parse --short "$GITHUB_SHA") && \
             echo $SHORTSHA && \
             mkdir build/ && \
             cp -r rulebook/* build/ && \
