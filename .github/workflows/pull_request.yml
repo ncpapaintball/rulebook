@@ -20,26 +20,14 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
-      - name: Set Environment Variables
-        id: vars
-        run: |
-          echo ::set-output name=short_sha::$(git rev-parse --short ${{ github.sha }})
-
-      - name: Test env
-        run: |
-          echo $SHORTSHATEST
-        env:
-          SHORTSHATEST: ${{ steps.vars.outputs.short_sha }}
-
       # Multi-step process to build the rulebook using pandoc and ghostscript
       - name: Build the Rulebook
         uses: docker://ncpapaintball/rulebook-builder:latest
         with:
           entrypoint: /bin/sh
-          env:
-            SHORTSHA: ${{ steps.vars.outputs.short_sha }}
           args: |
             -c "
+            SHORTSHA = $(git rev-parse --short "$GITHUB_SHA") && \
             echo $SHORTSHA && \
             mkdir build/ && \
             cp -r rulebook/* build/ && \
