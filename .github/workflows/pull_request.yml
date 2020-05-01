@@ -25,6 +25,12 @@ jobs:
         run: |
           echo ::set-output name=short_sha::$(git rev-parse --short ${{ github.sha }})
 
+      - name: Test env
+        run: |
+          echo $SHORTSHATEST
+        env:
+          SHORTSHATEST: ${{ steps.vars.outputs.short_sha }}
+
       # Multi-step process to build the rulebook using pandoc and ghostscript
       - name: Build the Rulebook
         uses: docker://ncpapaintball/rulebook-builder:latest
