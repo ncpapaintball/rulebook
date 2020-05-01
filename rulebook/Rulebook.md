@@ -514,10 +514,94 @@ pandoc:
         1. Players must put barrel socks on their markers when a point is stopped and keep their goggles on, unless given permission to remove them by a referee.
     1. Point Completion
         1. A point will end at the earliest of:
-            1. A referee signaling a flag hang,  or
+            1. A referee signaling a flag hang, [^dead_players_cant_hang_flag] or
             1. The elimination of all players due to a major penalty as in 7.1.1.2, or
             1. No active players remain on the field, or
             1. The end of point time.
+
+# Penalties
+10. Penalties
+    1. General Penalty Information
+        1. Any referee may issue a penalty on the field of play.
+        1. Any authorized event staff may issue penalties outside of the field of play.
+        1. Penalties are assessed to people. Action is taken against the penalized person and/or the penalized person’s team.
+        1. A person’s team is the team that has that person listed as a player or staff on its roster, or the team on whose behalf the player is acting if the person is not listed as a player or staff on any roster.
+        1. No more than one penalty may be assessed for a particular action by a player or team. In the event that a given action qualifies for more than one penalty, the most severe penalty will be assessed.
+        1. If a penalty is assessed against an active player, the player receiving the penalty must be one of the players eliminated.
+        1. In Class A RaceTo-7 and Class A Full Format, a referee will assign one active player to the penalty box for each penalty assessed. 
+        1. In College / High School RaceTo-2,
+            1. If there are insufficient active players remaining to the field of play to satisfy the penalty, the team will be assessed a penalty minute against their total game time remaining for the match and round for each player unable to be eliminated. [^no_active_players_between_points] 
+        1. If a penalty is assessed during the break period immediately prior to a point the team is scheduled to play, the team will start short one player for each player that would normally be eliminated by the penalty. [^penalty_includes_flag_carrier_after_hang] 
+        1. In Class A RaceTo-7 and Class A Full Format,
+            1. The assigned active player, as described in 9.1.7, shall proceed to the penalty box to serve the penalty.
+                1. Should any penalty time carry over to the next point start the remainder of the penalty shall be served by the player who committed the infraction.  Likewise if a penalty is assessed at the start of a point or between points the player who committed the penalty is placed in the penalty box.
+                1. If there are two or more active players left on the penalized player’s team, the player closest to the penalized player is sent to the penalty box.
+                1. If the team has less than two active players left, and the penalty is a major or gross penalty assessed,
+                    1. If a point is in progress, the point ends immediately, and
+                    1. The opposing team scores one point, and
+                    1. The penalized player is placed in the penalty box.
+                1. If a player is penalized when there are already three players from that player’s team in the penalty box,
+                    1. If a point is in progress, the point ends immediately, and
+                    1. Of the four penalties, the penalty with the least time remaining will end and the remaining three players will be placed in the box at the start of the next point, and
+                    1. The opposing team scores one point.
+                1. If both teams receive penalties that would cause their opponent to score a point, the points offset each other.
+            1. If the penalty is assessed before or between points, it must be served in full at the start of the next point.  If an individual player is assessed the penalty that player serves the penalty.
+            1. Penalty time begins running when the player serving the penalty enters the penalty box.
+            1. Penalty time only runs when the match clock is running.
+            1. If an opposing team scores a point while a team has a player serving a minor penalty, the minor penalty with the least time remaining will end.
+    1. Minor Penalties
+        1. A referee will eliminate one active [^referee_must_pull_an_active_player] player for each minor penalty received by a team.
+        1. A referee may signal a minor penalty with a yellow flag and/or one arm raised in the air.
+        1. Minor penalties as outline in the rule book can be found in sections 5.2.2, 5.3.6.4.1, 5.3.9, 5.3.12.4, 5.4.2.1, footnote 27, 5.7.4, 6.3.4.4, 8.2.8, 8.2.12.2, footnote 43, footnote 48, footnote 52, 8.6.1.1, 8.7.1.1, 8.8.8, footnote 56, 8.8.9.1, footnote 57, 10.1.1, 10.1.2, 10.1.3, 10.1.10
+    1. Major Penalties
+        1. A referee will eliminate two active players for each major penalty received by a team,
+            1. except in Class A, where only one active player is eliminated.
+        1. A referee may signal a major penalty with a red flag and/or two arms raised in the air.
+        1. Major penalties as outlined in the rule book can be found in sections footnote 17, 5.3.6.4.2, 5.4.2.2, 5.6.1.4, 6.3.4.5, 7.1.1.2, 8.1.3.1, 8.7.2, 8.7.4, 10.1.10, 10.2.2
+    1. Gross Penalties
+        1. A referee will eliminate two active players for each gross penalty received by a team, and
+            1. A player receiving a gross penalty may not play for the next 3 points played by the team. [^next_three_points_regardless_of_opponent]
+        1. The team receives a major and the player receives the gross penalty. A referee will signal a gross penalty in the same fashion as a major penalty as outlined in 9.3.2.
+        1. Gross penalties as outlined in the rule book can be found in sections 5.1.6.2, 5.1.14, 5.3.6.4.3, 5.3.13, 5.4.2.3, 5.7.1, 8.5.4, 8.7.3, 8.7.5, 8.8.4, 
+
+# Interference, Sportsmanship, Suspensions and Ejections
+11. Interference, Sportsmanship, Suspensions and Ejections
+    1. Interference and Sportsmanship
+        1. Any person who distracts or impedes the referee in the performance of their duties may be subject to a minor penalty. (See 9.2)
+            1. Distracting or impeding is determined by the referee and includes but is not limited to a refusal to leave the field when eliminated, engaging the referee in dialogue after elimination, etc.
+        1. Any person who shoots towards the spectator sideline or opponent’s end line during a break period will be assessed a minor penalty. (See 9.2)
+        1. Any person who engages in aggressive or insulting behavior towards another person, except a referee, will be assessed at least a minor penalty. (See 9.2)
+        1. Any person who engages in aggressive or insulting behavior towards a referee may be assessed up to a gross penalty. (See 9.4)
+        1. Any person who engages in hostile physical contact with another person, including shooting another person who is not participating in a point or shooting from outside the field of play may be assessed up to a major suspension. (See 10.2.2)
+        1. Any person who engages in intentional physical contact with an official may be assessed up to a major suspension. (See 10.2.2)
+        1. Any person who throws an air source, whether attached to a marker or not, will be ejected from the tournament and will serve a suspension banning them from the next scheduled event.
+        1. Any person who throws any equipment on the field of play other than an air source, disposable equipment, or a flag may be assessed up to a gross penalty. (See 9.4)
+        1. Any person who intentionally shoots in the direction of another person who is not wearing a paintball goggle system will be assessed a major suspension. (See 10.2.2)
+        1. Any person who engages in other minor acts of unsportsmanlike behavior may be assessed a minor or a major penalty. (See 9.2 & 9.3)
+        1. Any person who engages in other major or severe acts of unsportsmanlike behavior may be assessed a minor or major suspension by a head referee. (See 10.2.1& 10.2.2)
+        1. Every player on any team that intentionally gives up points to an opponent or plots to set scores with opponents will be assessed a major suspension. (See 10.2.2)
+    1. Suspensions
+        1. Any head referee may issue a suspension on the field of play. Any authorized event staff may refer a person outside the field of play to the Ultimate Referee or General Manager for suspension.
+            1. A player who receives a minor suspension
+                1. Shall not play for the next four points.
+                1. Must be present for all points and matches played by their team and must silently remain in an area designated by the head referee for the duration of the match. [^suspension_area]  
+        
+            1. A person who receives a major suspension will be ejected from the event and
+                1. May not be on-site at any event for the duration of the suspension, and
+                1. May be suspended up to a year by the Ultimate Referee, and
+                1. May be assessed a fine of up to $1000. A person may not play any further events until such fine is paid.
+        
+        1. The team of any player who receives a suspension will be assessed a major penalty. (See 9.3)
+        1. The team of any person who receives a major suspension will have their prize package for the event reduced by one fifth per player suspended.
+        1. Any team who has three or more players suspended in any event will be ejected from that event.
+    1. Ejections
+        1. Only the Ultimate Referee or General Manager may eject a team from an event.
+        1. A team that is ejected from an event will forfeit any entry fee paid and any prizes or points earned at the event.
+        1. Teams ejected for having an illegal roster or playing with ineligible players will forfeit all matches in that event. Teams will otherwise forfeit all remaining matches.
+    1. Fines
+        1. A person who has been assessed a fine will forfeit their ID card and event pass until such fine is paid.
+        1. No person with an outstanding fine may appear on or be added to any roster for any future event. 
+
 
 [^competitor]: A competitor is any person present on the field of play equipped to compete in a team’s match during an active point and exhibiting an association with the competing team.
 
@@ -632,3 +716,15 @@ pandoc:
 [^players_must_call_themselves_out]: It is the player’s responsibility to call themselves out when they have an obvious hit.  It is the referees’ job to penalize players who continue to play with an obvious hit, so if you call a referee over to check a hit you could have checked yourself, expect a penalty too.  If called for a paint check and the referee deems the hit to be an obvious hit a major penalty will be assessed.
 
 [^immediately_eliminate_unobvious_hit_players]: If a referee observes a player receive an unobvious hit, the referee should eliminate that player immediately without penalty.  If a referee finds an unobvious hit on a player, the referee will eliminate that player and assess a minor penalty as the referee does not know how long the player has been playing with the hit nor does he know what type of impact the player has had on the point while playing as an inactive player.
+
+[^dead_players_cant_hang_flag]: A referee should not signal a flag hang if an inactive or eliminated player attempts to hang the flag.
+
+[^no_active_players_between_points]: Note that there are no active players between points, so any penalties assessed after the end of the point becomes penalty minutes. This includes specifically penalties for a player who hangs the flag dirty – the team receives penalty minutes, even if they had bodies remaining this point.
+
+[^penalty_includes_flag_carrier_after_hang]: This includes penalties assessed to the flag carrier after the hang.  Thus a team will be assessed two penalty minutes for a flag carrier who hangs with an obvious hit and one penalty minute for a carrier who hangs with an unobvious hit.
+
+[^referee_must_pull_an_active_player]: Note the rule states one active player will be eliminated. If when a referee gets to the active player to be eliminate for the penalty and finds the player has already been eliminated due to a valid hit the referee must then find a different player that is active to pull for the penalty.
+ 
+[^next_three_points_regardless_of_opponent]: Next three points regardless of opponent. The team does not play short if an alternate is available.
+
+[^suspension_area]: The area will be near the scoring table.  This is to prevent suspended players from becoming sideline coaches.
