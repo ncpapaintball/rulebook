@@ -602,7 +602,66 @@ pandoc:
         1. A person who has been assessed a fine will forfeit their ID card and event pass until such fine is paid.
         1. No person with an outstanding fine may appear on or be added to any roster for any future event. 
 
+# Miscellaneous
+12. Miscellaneous
+    1. Maintenance and Cleanup
+        1. All persons shall adhere to the administrative rules and regulations promulgated by the promoter with respect to maintenance and cleanup of the event facility.
+        1. All persons will dispose of all trash they generate in designated trash receptacles.
+        1. Teams will remove paint boxes from enclosed team pit areas.
+        1. Any person that fails to adhere to rules and regulations contained in section 11.1 or promulgated by the promoter may be fined up to $250 by authorized personnel.
+    1. Appeals
+        1. Calls made on the field of play may be appealed to the head referee of the field.
+        1. No referee shall overturn eliminations.
+        1. The decision of the head referee of a field is final, except for suspensions and ejections.
+        1. Any player or team subject to a suspension may appeal the imposition of that suspension to the General Manager immediately.
+        1. A team may file a written grievance with the Ultimate Referee regarding the decision of authorized personnel, a scoring official, a referee, or a head referee.
+    1. Rules Modifications
+        1. Referees have the authority to interpret, extend and apply the rules to situations not already covered by the rules.
+        1. Should, under exceptional circumstances, any reasons for a modification arise during the tournament, the Ultimate Referee may issue a modification to the rules, upon which time a captains’ meeting will be called to inform the teams of the change or teams will be informed of the change at the field of competition prior to their next match.
 
+# Appendix
+
+## Field Layout
+
+![Playing Field Layout](./assets/field_layout.jpg)
+\pagebreak
+
+## Preliminary Round Structure
+| Number of Teams | 5-Team Brackets | 6-Team Brackets |   | Number of Teams | 5-Team Brackets | 6-Team Brackets |
+|----|----|----|----|----|----|----|
+|5   |1   |    |    |33  |3   |3   |
+|6   |    |1   |    |34  |2   |4   |
+|7   |RR  |    |    |35  |1/7*|5/0*|
+|8   |RR  |    |    |36  |0/6*|6/1*|
+|9   |RR  |    |    |37  |5   |2   |
+|10  |2   |    |    |38  |4   |3   |
+|11  |RR  |    |    |39  |3   |4   |
+|12  |    |2   |    |40  |8   |    |
+|13  |RR  |    |    |41  |7   |1   |
+|14  |RR  |    |    |42  |6/0*|2/7*|
+|15  |3   |    |    |43  |5   |3   |
+|16  |2   |1   |    |44  |4   |4   |
+|17  |1   |2   |    |45  |3/9*|5/0*|
+|18  |    |3   |    |46  |2/8*|6/1*|
+|19  |RR  |    |    |47  |1/7*|7/2*|
+|20  |4   |    |    |48  |0/6*|8/3*|
+|21  |3   |1   |    |49  |5   |4   |
+|22  |2   |2   |    |50  |10  |0   |
+|23  |1   |3   |    |51  |9   |1   |
+|24  |    |4   |    |52  |8   |2   |
+|25  |5   |    |    |53  |7   |3   |
+|26  |4   |1   |    |54  |6   |4   |
+|27  |3   |2   |    |55  |11  |0   |
+|28  |2   |3   |    |56  |10  |1   |
+|29  |1   |4   |    |57  |9   |2   |
+|30  |6   |    |    |58  |8   |3   |
+|31  |5   |1   |    |59  |7   |4   |
+|32  |4   |2   |    |60  |12  |0   |
+
+RR: Single-Bracket Seeded Round-Robin Schedule
+
+*: The first number reflects the preferred schedule; however, if necessary due to scheduling reasons, NCPA may instead split teams into brackets as reflected by the second number.
+        
 [^competitor]: A competitor is any person present on the field of play equipped to compete in a team’s match during an active point and exhibiting an association with the competing team.
 
 [^same_number_of_teams]: Same number  of teams from each bracket
