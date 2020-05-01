@@ -8,9 +8,6 @@ on:
     branches:
       - master
 
-env:
-  SHORTSHA: $(git rev-parse --short ${{ github.sha }})
-
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
@@ -23,11 +20,18 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
+      - name: Set Environment Variables
+        id: vars
+        run: |
+          echo ::set-output name=short_sha::$(git rev-parse --short ${{ github.sha }})
+
       # Multi-step process to build the rulebook using pandoc and ghostscript
       - name: Build the Rulebook
         uses: docker://ncpapaintball/rulebook-builder:latest
         with:
           entrypoint: /bin/sh
+          env:
+            SHORTSHA: ${{ steps.vars.outputs.short_sha }}
           args: |
             -c "
             echo $SHORTSHA && \
