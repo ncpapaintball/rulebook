@@ -518,6 +518,7 @@ pandoc:
             1. The elimination of all players due to a major penalty as in 7.1.1.2, or
             1. No active players remain on the field, or
             1. The end of point time.
+
 # Penalties
 10. Penalties
     1. General Penalty Information
