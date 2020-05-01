@@ -6,12 +6,14 @@ mkdir build/
 
 # Replace dates and move things to the build folder
 cp -r rulebook/* build/
+cp deeplist.tex build/
 sed -i "s/@TODAYS_DATE@/$(date +'%b %d, %Y')/g" build/Cover.md
+sed -i "s/@GITREF@/$(git rev-parse --short HEAD)/g" build/deeplist.tex
 
 # Build the PDF
-docker run --rm --volume "`pwd`:/data" -w /data/build ncpapaintball/rulebook-builder Cover.md -o Cover.pdf
-docker run --rm --volume "`pwd`:/data" -w /data/build ncpapaintball/rulebook-builder Rulebook.md -f markdown+startnum+fancy_lists+raw_html --toc --toc-depth=6 -H ../deeplist.tex -o Main.pdf
-docker run --rm --volume "`pwd`:/data" -w /data/build ncpapaintball/rulebook-builder gs -dNOPAUSE -sDEVICE=pdfwrite -sOUTPUTFILE=rulebook.pdf -dBATCH Cover.pdf Main.pdf
+docker run --rm --volume "`pwd`:/data" -w /data/build ncpapaintball/rulebook-builder:latest Cover.md -o Cover.pdf
+docker run --rm --volume "`pwd`:/data" -w /data/build ncpapaintball/rulebook-builder:latest Rulebook.md -f markdown+startnum+fancy_lists+raw_html --toc --toc-depth=6 -H deeplist.tex -o Main.pdf
+docker run --rm --volume "`pwd`:/data" -w /data/build ncpapaintball/rulebook-builder:latest gs -dNOPAUSE -sDEVICE=pdfwrite -sOUTPUTFILE=rulebook.pdf -dBATCH Cover.pdf Main.pdf
 
 # Clean up intermediary output
 rm build/Cover.pdf build/Main.pdf build/Cover.md build/Rulebook.md
