@@ -31,8 +31,6 @@ jobs:
       - name: verify shortsha
         run: |
           echo $SHORTSHA
-        env:
-          SHORTSHA: ${{ steps.vars.output.sha_short }}
 
       # Multi-step process to build the rulebook using pandoc and ghostscript
       - name: Build the Rulebook
