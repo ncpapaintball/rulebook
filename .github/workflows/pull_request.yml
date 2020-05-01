@@ -25,8 +25,8 @@ jobs:
         run: |
           SHORTSHA=$(git rev-parse --short "$GITHUB_SHA")
           echo $SHORTSHA
-          echo "::set-output name=sha_short::$SHORTSHA"
-          echo "::set-env name=SHORTSHA::$SHORTSHA"
+          echo ::set-output name=sha_short::$SHORTSHA
+          echo ::set-env name=SHORTSHA::$SHORTSHA
 
       - name: verify shortsha
         run: |
